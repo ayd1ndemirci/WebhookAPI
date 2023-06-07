@@ -1,6 +1,10 @@
 # WebhookAPI
 An easy-to-use API for Discord webhook
 
+İmage:
+![image](https://github.com/ayd1ndemirci/WebhookAPI/assets/128159204/15914ad1-7dbe-4d30-b5c2-ada014095903)
+
+
 Example
 
 Add use
