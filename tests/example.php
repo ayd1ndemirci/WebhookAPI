@@ -21,8 +21,8 @@ class example
                    "image" => [
                        "url" => "https://w0.peakpx.com/wallpaper/77/228/HD-wallpaper-m-kemal-ataturk-1881-ataturk-ataturk-imzasi-cumhuriyet-leader-mustafa-kemal-supreme-commander-tarih-turkey-vatan.jpg"
                    ],
-                   "foother" => [
-                       "text" => "Foother text",
+                   "footer" => [
+                       "text" => "Footer text",
                        "icon_url" => "https://w0.peakpx.com/wallpaper/77/228/HD-wallpaper-m-kemal-ataturk-1881-ataturk-ataturk-imzasi-cumhuriyet-leader-mustafa-kemal-supreme-commander-tarih-turkey-vatan.jpg"
                    ]
                ]
